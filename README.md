@@ -7,5 +7,4 @@ Program consists of 4 parts.
 4. Unit testing to test edge, corner and random cases. 
 ![Names](https://github.com/jg-cas/Bowling/blob/master/Bowling%20Scoring%20System/Screenshots/Screenshot%202021-11-04%20110616.png)
 ![Throws](https://github.com/jg-cas/Bowling/blob/master/Bowling%20Scoring%20System/Screenshots/Screenshot%202021-11-04%20110715.png)
-![Score](https://github.com/jg-cas/Bowling/blob/master/Bowling%20Scoring%20System/Screenshots/total.png)
 ![Test](https://github.com/jg-cas/Bowling/blob/master/Bowling%20Scoring%20System/Screenshots/Test.png)
